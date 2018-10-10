@@ -1,0 +1,56 @@
+.container
+{
+	width: 1100px;
+	margin-top: 140px;
+}
+#formulaire_mot_de_passe
+{
+	background:rgb(255,255,191);
+	width:150px;
+	margin-left:480px;
+}
+#formulaire_utilisateur
+{
+	background:rgb(255,255,191);
+	width:150px;
+	margin-left:480px;
+}
+#boutton_continuer
+{
+	background:rgb(0,0,191);
+	margin-top:10px;
+	margin-left:480px;
+	border-radius:8px;
+	width:85px;
+}
+#boutton_reprendre
+{
+	background:rgb(0,0,191);
+	margin-top:15px;
+	margin-left:478px;
+	border-radius:21px;
+	width:90px;
+}
+.icône_utilisateur
+{
+	background:rgb(245,245,245);
+	margin-left:450px;
+	margin-bottom:-100px;
+}
+.icône_mot_de_passe_1
+{
+	background:rgb(245,245,245);
+	margin-left:450px;
+	margin-bottom:-140px;
+}
+#boutton_commencer
+{
+	margin-top:20px;
+	margin-left:483px;
+	border-radius:8px;
+}
+.icône_mot_de_passe_2
+{   background:rgb(245,245,245);
+	margin-left:635px;
+	margin-bottom:-240px;
+}
